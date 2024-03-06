@@ -1,0 +1,16 @@
+Podemos ver si hay correlación entre las transacciones (algún estado) y el Pais del cliente.
+El pico de ventas se da en agosto.
+Tenemos que usar un BoxPlot para ver si la distribución es simétrica. Si los outliers son muy grandes borro la variable.
+Si es poquito borro los outliers.
+Inferencia estadística. Significancia (alfa) = 5% menos del 5% está ok
+50% de mis compradores provienen de un determinado país. 
+Los autos más caros se venden en Europa, 
+Estadísitico de prueba. 
+
+Hipótesis 2
+El precio de los vehículos
+Los precios sugeridos por el fabricante estan por debajo de lo que se puede vender en Estados Unidos y Canadá. 
+Mientras que por fuera de Norteamérica, los clientes terminan pagando hasta el doble de esta sugerencia debido a los costos de exportación y fletes. 
+Dada esta situación los precios de venta deben ser fijados sin tener en cuenta la sugenercia del fabricante. 
+Por otra parte, sí hay que considerar un margen de seguridad en valor de venta en aquellos paises que demoran o cancelan las operaciones ya que generan sobre stocks.
+Se analizará si verdaderamente ocurre esta situación analizando las ventas de los últimos 3 años, para sacar conclusiones y elaborar una estrategia de "pricing" más efectiva. 
